@@ -1,6 +1,2 @@
-hello
-world
-test
-more tests wooot wooot lets ridddeee
-another edit.
-this is one update booya
+adding an intmd and mart file
+another change to my file
